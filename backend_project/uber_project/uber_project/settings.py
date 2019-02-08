@@ -71,7 +71,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'uber_project.wsgi.application'
-ASGI_APPLICATION = 'uber_app.routing.application'
+ASGI_APPLICATION = 'uber_project.routing.application'
 
 
 # Database
